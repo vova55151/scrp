@@ -1,5 +1,4 @@
 import asyncio
-import codecs
 import os, sys
 import datetime as dt
 
