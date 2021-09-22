@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84614a97-d2c6-4c95-89fb-c0125136135e" name="Changes" comment="1">
+    <list default="true" id="84614a97-d2c6-4c95-89fb-c0125136135e" name="Changes" comment="fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasdpasd/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/pasdpasd/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pasdpasd/settings/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pasdpasd/settings/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pasdpasd/settings/local_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pasdpasd/settings/local_settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pasdpasd/settings/production.py" beforeDir="false" afterPath="$PROJECT_DIR$/pasdpasd/settings/production.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasdpasd/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pasdpasd/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasdpasd/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/pasdpasd/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632234186600</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix">
+      <created>1632291370189</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632291370189</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +158,7 @@
       <path value="$PROJECT_DIR$/scraping_service1" />
     </ignored-roots>
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
