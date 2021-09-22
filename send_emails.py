@@ -7,7 +7,7 @@ from django.contrib.auth import get_user_model
 
 proj = os.path.dirname(os.path.abspath('manage.py'))
 sys.path.append(proj)
-os.environ["DJANGO_SETTINGS_MODULE"] = "scraping_service.settings"
+os.environ["DJANGO_SETTINGS_MODULE"] = "pasdpasd.settings"
 
 django.setup()
 from scraping.models import Vacancy, Error, Url

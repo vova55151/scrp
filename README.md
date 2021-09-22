@@ -1,4 +1,4 @@
-# scraping_service
+# pasdpasd
 
 
 ### Сайт на Django 3. Сервис по сбору данных. 
